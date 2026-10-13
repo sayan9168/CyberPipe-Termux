@@ -1,0 +1,11 @@
+*.log
+*.tmp
+results/
+logs/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+termux-storage/
+*.bak
+pipelines/custom/
